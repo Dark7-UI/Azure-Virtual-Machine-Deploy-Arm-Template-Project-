@@ -1,0 +1,42 @@
+Running
+Computer name
+UbuntuVM
+Public IP address/DNS name label
+102.37.103.237/ubuntuvmsck6vreyw4t44.southafricanorth.cloudapp.azure.com
+Private IP address
+10.0.1.4
+Operating system
+Linux
+VM generation
+V2
+Agent status
+Ready
+Agent version
+2.15.2.1
+Hibernation
+Disabled
+Ephemeral OS disk
+N/A
+Azure Spot eviction policy
+N/A
+Azure Spot eviction type
+N/A
+Host group
+None
+Host
+-
+Proximity placement group
+-
+Resource ID
+/subscriptions/0ec9f438-ff58-4e0b-a691-854696566c4e/resourceGroups/3MTT_CloudComputing/providers/Microsoft.Compute/virtualMachines/UbuntuVM
+Location
+South Africa North
+Availability zone
+None
+Resource group
+3MTT_CloudComputing
+Subscription name
+Azure subscription 1
+Change subscription
+Subscription ID
+0ec9f438-ff58-4e0b-a691-854696566c4e
